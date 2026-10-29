@@ -1076,6 +1076,7 @@ plugin tutorial](https://github.com/deepseek-ai/deepseek-harness/blob/master/doc
 and the [`dsh-plugin` community topic](https://github.com/topics/dsh-plugin) before
 submitting a repository.
 
+- [cute-fat-fish-pet](https://github.com/12we21/cute-fat-fish-pet) - Desktop pet plugin for DeepSeek Harness (also a standalone Windows app): a chibi blue-haired maid with 106 hand-drawn transparent animations who chats through local Ollama or any OpenAI-compatible backend, optionally comments on your screen, and does offline speech recognition; MIT. Install with `dsh plugin add github:12we21/cute-fat-fish-pet`.
 - [dsh-agent-team](https://github.com/Contexera/dsh-agent-team) - DeepSeek Harness plugin providing persistent team agents with per-member memory, Channels, and durable Task Threads.
 - [dsh-api-balance](https://github.com/Kihara777/dsh-api-balance) - API usage-balance panel for DeepSeek Harness: adds a 「Usage / Balance」 tab to the webui usage ring showing the account balance and today / this-month / 30-day cost with charts, acquiring the platform token automatically from local browser sessions.
 - [dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) - DSH plugin that lets an AI model drive Blender over a direct TCP channel: viewport frames, custom-angle renders, Python execution, headless offload, and a judgment/acceptance layer (`blender_rt_plan`, 28 families / 183 ops).
